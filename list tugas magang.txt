@@ -1,3 +1,4 @@
 Misi/tugas magang
 -REVIEW video YT
 -REVIEW IG1 dan IG2
+-frontend halaman profil user customer mas
