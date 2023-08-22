@@ -3,3 +3,5 @@ CEKLIST MATERI YANG AKAN DIPELAJARI
 - HTML
 - FIGMA
 - Frontend programming (of course)
+
+note GITHUB:
