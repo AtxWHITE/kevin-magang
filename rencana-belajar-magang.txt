@@ -2,3 +2,4 @@ CEKLIST MATERI YANG AKAN DIPELAJARI
 - PHP (mungkin)
 - HTML
 - FIGMA
+- Frontend programming (of course)
